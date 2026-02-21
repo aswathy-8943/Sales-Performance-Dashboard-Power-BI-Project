@@ -1,64 +1,63 @@
-Sales Performance Dashboard | Power BI Project
-Project Overview
+🚀 Sales Performance Dashboard | Power BI Project
+📌 Project Overview
 
-This project showcases an interactive Sales Performance Dashboard built using the Superstore dataset. The dashboard is designed to monitor key business metrics, analyze sales trends, and generate actionable insights for decision-making.
+This project showcases an interactive Sales Performance Dashboard built using the Superstore dataset. It helps track business performance, uncover trends, and generate actionable insights to support decision-making.
 
-The goal of this project is to demonstrate skills in data modeling, DAX calculations, and interactive dashboard design while analyzing business performance across multiple dimensions.
+The dashboard demonstrates skills in data modeling, DAX calculations, and interactive dashboard design.
 
-Features & Highlights
+✨ Features & Highlights
 
-KPI Tracking: Total Sales, Profit, Profit Margin, Average Order Value (AOV), and Year-over-Year (YoY) Growth
+📊 KPI Tracking: Total Sales, Profit, Profit Margin, Average Order Value (AOV), Year-over-Year (YoY) Growth
 
-Trend Analysis: Monthly sales and profit trends to identify patterns and fluctuations
+📈 Trend Analysis: Monthly sales and profit trends
 
-Regional Insights: Sales performance visualized across regions
+🗺 Regional Insights: Sales performance visualized by region
 
-Product Analysis: Top and bottom-performing products by sales and profit
+🏆 Product Analysis: Top and bottom-performing products by sales and profit
 
-Profitability Analysis: Examines the relationship between discounts and profit
+💰 Profitability Analysis: Impact of discounts on profit
 
-Key Insights
+🔎 Key Insights
 
-Higher discount levels negatively impact profitability
+Higher discounts negatively impact profitability
 
-A small subset of products drives a large portion of overall revenue
+A small group of products contributes most of the revenue
 
-Certain products generate low profit despite positive sales
+Some products generate low profit despite strong sales
 
-Profit margins fluctuate across months, highlighting pricing and cost variability
+Profit margins fluctuate across months due to pricing and cost variability
 
-Skills & Tools Used
+🛠 Tools & Skills Used
 
-Power BI: Interactive dashboards, maps, and KPI visuals
+Power BI: Interactive dashboards, KPI visuals, and maps
 
 DAX: Calculations for Profit Margin, AOV, and YoY Growth
 
-Data Analysis: Business insight generation from multi-dimensional data
+Data Analysis: Extracting actionable business insights from multi-dimensional data
 
-Data Modeling: Structuring data for efficient analysis and reporting
+Data Modeling: Structuring data efficiently for reporting and visualization
 
-Dashboard Screenshot
-
-
-<img width="1351" height="742" alt="image" src="https://github.com/user-attachments/assets/42e9a416-de80-4c70-a495-2e977711e639" />
+📸 Dashboard Preview
 
 
-How to Use
+<img width="1351" height="742" alt="image" src="https://github.com/user-attachments/assets/75b6ea82-77f5-4b99-b2f3-57135d45c56e" />
+
+⚡ How to Use
 
 Open the .pbix file in Power BI Desktop
 
-Explore the interactive dashboard and slicers
+Explore the interactive dashboard using filters and slicers
 
-Use the filters to analyze sales by month, region, and product
+Analyze trends, top/bottom products, and regional performance
 
-Learnings & Takeaways
+💡 Learnings & Takeaways
 
-Developed interactive and visually appealing dashboards
+Developed a fully interactive and visually appealing dashboard
 
 Strengthened data modeling and DAX calculation skills
 
-Gained experience in deriving actionable business insights from data
+Gained experience in deriving actionable insights from real-world data
 
-Connect & Feedback
+📬 Feedback & Collaboration
 
-I welcome feedback and suggestions to improve the dashboard or explore further analysis.
+I welcome feedback, suggestions, and collaboration to improve the dashboard or explore further analysis.
